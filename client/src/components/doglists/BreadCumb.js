@@ -3,14 +3,14 @@ import {Link} from 'react-router-dom'
 
 
 
-function BreadCumb() {
+function BreadCumb({page_name}) {
   return (
     <section className="breadcrumb-area breadcrumb-bg"  style={{backgroundImage:'url("img/bg/breadcrumb_bg.jpg")'}}>
         <div className="container">
           <div className="row">
             <div className="col-12">
               <div className="breadcrumb-content">
-                <h2 className="title">Dog List</h2>
+                <h2 className="title">{page_name}</h2>
                 <nav aria-label="breadcrumb">
                   <ol className="breadcrumb">
                     <li className="breadcrumb-item"><Link to="/">Home</Link></li>

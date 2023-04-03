@@ -9,7 +9,9 @@ function DogList() {
   return(
 
 	  <main>
-	   <BreadCumb/>
+	   <BreadCumb
+	   	page_name = 'Dog List'
+	   />
 	   <AdoptionShop/>
 	  </main>
   )

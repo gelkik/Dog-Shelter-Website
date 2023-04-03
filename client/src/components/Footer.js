@@ -15,8 +15,6 @@ function Footer() {
               </div>
               <div className="footer-text">
               <img src={logo1} alt="lololol"/>
-
-                
               </div>
               <div className="footer-contact">
                 <div className="content">
@@ -46,6 +44,7 @@ function Footer() {
               <h4 className="fw-title">Our Services</h4>
               <div className="fw-link">
                 <ul>
+                  <li><Link to="/">Home</Link></li>
                   <li><Link to="/adoption">Our Adoption</Link></li>
                   <li><Link to="/contacts">Contact Us</Link></li>
                 </ul>

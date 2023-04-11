@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dog-Shelter/static/css/main.31d6cfe0.css",
+    "main.js": "/Dog-Shelter/static/js/main.4f4fcaf2.js",
+    "static/media/slider_bg01.jpg": "/Dog-Shelter/static/media/slider_bg01.5a1c63dc2a6efd9f0a5a.jpg",
+    "static/media/logo1.png": "/Dog-Shelter/static/media/logo1.66206ef02b02028e9577.png",
+    "index.html": "/Dog-Shelter/index.html",
+    "main.4f4fcaf2.js.map": "/Dog-Shelter/static/js/main.4f4fcaf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4f4fcaf2.js"
+  ]
+}
